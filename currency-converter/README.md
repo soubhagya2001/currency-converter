@@ -42,6 +42,6 @@ To run this application locally, follow these steps:
 
 ## API Used
 The application uses the Currency API provided by Fawaz Ahmed. It fetches real-time currency exchange rate data from<br>
- https://cdn.jsdelivr.net/gh/fawazahmed0/currency-api@1/latest/currencies.
+ https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/eur.json.
 
 
